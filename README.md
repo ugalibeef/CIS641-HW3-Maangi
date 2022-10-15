@@ -1,7 +1,7 @@
 # CIS641-HW3-Maangi
 Portfolio page
-title: Samuel Maangi Portfolio
-description: Modernist is a theme for GitHub Pages.
+title: Modernist Theme
+description: xxxx
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-modernist
