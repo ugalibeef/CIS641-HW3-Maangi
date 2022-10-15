@@ -1,6 +1,10 @@
 # CIS641-HW3-Maangi
 Portfolio page
-
+title: Modernist theme
+description: Modernist is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-modernist
 
 - 👋 Jambo! My name is Samuel Maangi
 - 👀 I’m interested in information systems management.
